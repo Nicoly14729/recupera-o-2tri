@@ -13,9 +13,9 @@ Neste projeto, utilizamos o que aprendemos nas aulas do professor Leonardo de pr
 
 ## ✒️ Desenvolvimento do projeto
 
-* * Desenvolvimento feito através do vídeo de exemplo que foi apresentado durante o tempo destinado a este trabalho de recuperação.
+* Desenvolvimento feito através do vídeo de exemplo que foi apresentado durante o tempo destinado a este trabalho de recuperação.
 
-## 🎁 Agradecimentos
+## 🎁 Agradecimento
 
 * Primeiramente queria agradecer ao professor Leonardo por esta oportunidade de aprendizado. Inicialmente este projeto foi destinado a um único propósito, recuperar nota. Porém, depois de passar por todo esse processo percebi o quanto é gratificante me aprofundar, e ganhar experiência com o assunto.
 
